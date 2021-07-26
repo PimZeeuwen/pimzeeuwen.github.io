@@ -1,0 +1,68 @@
+body {
+    background-color: cornflowerblue;
+}
+
+#background {
+    background-color: red;
+}
+
+#wrapper {
+    width: 500px;
+    height: 450px;
+    margin: auto;
+    overflow: hidden;
+}
+
+#introduction {
+    width: 500px;
+    height: 273px;
+}
+
+header {
+    background-color: mediumaquamarine;
+    position: relative;
+    border: 2px black solid;
+}
+
+.big {
+    margin: 20px;
+    padding: 10px 10px;
+    height: 100px;
+}
+
+.small {
+    margin: 20px;
+    padding: auto;
+    height: 70px;
+}
+
+#introduction img {
+    position: absolute;
+    width: 200px
+}
+
+#introduction article {
+    float: right;
+    background-color: darkcyan;
+    width: 250px;
+    padding-bottom: 43px;
+    padding-left: 50px;
+}
+
+#introduction p{ 
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
